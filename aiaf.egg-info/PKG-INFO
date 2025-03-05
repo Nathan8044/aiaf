@@ -1,6 +1,6 @@
 Metadata-Version: 2.2
 Name: aiaf
-Version: 0.2.4
+Version: 0.2.5
 Summary: AI Agent Firewall: Prevents prompt injection and adversarial attacks on AI chatbots.
 Home-page: https://github.com/Nathan8044/aiaf
 Author: Your Name

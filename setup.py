@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="aiaf",
-    version="0.2.4",
+    version="0.2.5",
     description="AI Agent Firewall: Prevents prompt injection and adversarial attacks on AI chatbots.",
     author="Your Name",
     author_email="nathanrampersaud@gmail.com",
